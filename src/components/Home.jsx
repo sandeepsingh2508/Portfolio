@@ -38,7 +38,7 @@ const Home = () => {
           <br />
           <p>Front-End</p>
           <span>
-            HTML, CSS, JavaScript, ReactJs, Bootstrap, Material UI ,ReactIcons,
+            HTML, CSS, JavaScript, ReactJs, NextJs, Bootstrap, Material UI ,ReactIcons,
           </span>
           <span>TailWindCSS, StyledComponents</span>
           <br />
