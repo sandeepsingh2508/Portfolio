@@ -1,0 +1,21 @@
+.navbar {
+  padding: 12px;
+  background-color: rgb(12, 44, 92);
+  height: 2rem;
+}
+
+.navbar > ul {
+  display: flex;
+  flex-direction: row;
+
+  justify-content: center;
+  margin-top: 2px;
+  height: 10px;
+  gap: 2rem;
+
+  font-style: inherit;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  list-style-type: none;
+}
